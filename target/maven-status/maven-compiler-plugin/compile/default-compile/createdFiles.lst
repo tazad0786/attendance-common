@@ -1,0 +1,4 @@
+com\casestudy\attendencecommon\domain\AttendanceStatus.class
+com\casestudy\attendencecommon\domain\DailyAttendanceEvent.class
+com\casestudy\attendencecommon\domain\SwipeEvent.class
+com\casestudy\attendencecommon\domain\SwipeType.class
